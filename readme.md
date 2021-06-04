@@ -1,38 +1,23 @@
-# ParisArtGallery 프로젝트
+# :camera: ParisArtGallery 프로젝트
 
 ##### 안녕하세요 웹뿌링클치킨이 아니라 웹뿌론트엔드가 되고싶은 삐약삐약 주니어치킨개발자 ABlued입니다!
 
 html, css, bootstrap, javascript, JSP, JDBC, mysql로 만든 ParisArtGallery에 대해 소개해드리겠습니다.  
+
+:tv: 시연영상
+---
+[ParisArtGallery 시연영상 보러가기](https://www.youtube.com/watch?v=okSXZ3kLDlc&feature=youtu.be)
   
-프로젝트 개요
+:clipboard: 프로젝트 개요
 ---
 
 프로젝트 목적 : JSP(백엔드)를 사용해 CRUD 게시판 홈페이지 만들기  
 참여자 : ABlued 외 2명  
 사용 언어 및 스택 : HTML, CSS, Bootstrap, JavaScript, java, JSP, JDBC, mysql, SQL    
 작업 환경 : VSCode, Eclipse  
-
-주로 쓰인 개념들 
----
-
-+ CSS
-    + flex, css Model Box
-
-+ JavaScript
-    + DOM, EL식, 로컬저장소 이용하기
-  
-+ java
-    + JDBC로 mysql연동, 서블릿 클래스, 커스텀 및 표준 액션
-
-+ mysql
-    + 기본적인 SQL DDL, DCL 다루기
   
 
-시연 영상
----
-##### 시연 영상 링크 : https://ablue-1.tistory.com/17
-
-홈페이지 소개
+:wave: 홈페이지 소개
 ---
   
 ##### 소개 사진
@@ -66,8 +51,7 @@ html, css, bootstrap, javascript, JSP, JDBC, mysql로 만든 ParisArtGallery에 
 ![시스템 설계서](https://user-images.githubusercontent.com/53801395/112431755-44d56500-8d83-11eb-8deb-74ac50cf0a47.jpg)
   
 
-중요 코드 로직
----
+### :page_with_curl: 중요 코드 로직
 
 ##### JDBC로 mysql를 연동하는 로직 
 코드 위치 : WebContent->dbconn.jsp 13번째 줄에 위치
@@ -208,7 +192,27 @@ html, css, bootstrap, javascript, JSP, JDBC, mysql로 만든 ParisArtGallery에 
       }
    %>
 ```
-느낀 점 및 부족한 점
+  
+:heavy_check_mark: 구현된 기능들
+---
+로그인, 회원가입, 사진 업로드 및 삭제, 검색 및 필터링
+  
+:books: 주로 쓰인 개념들 
+---
+
++ CSS
+    + flex, css Model Box
+
++ JavaScript
+    + DOM, EL식, 로컬저장소 이용하기
+  
++ java
+    + JDBC로 mysql연동, 서블릿 클래스, 커스텀 및 표준 액션
+
++ mysql
+    + 기본적인 SQL DDL, DCL 다루기
+  
+:exclamation: 느낀 점 및 부족한 점
 ---
 
 ##### 느낀 점
