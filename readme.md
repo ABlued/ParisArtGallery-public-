@@ -1,12 +1,12 @@
 # :camera: ParisArtGallery 프로젝트
 
-##### 안녕하세요 웹뿌링클치킨이 아니라 웹뿌론트엔드가 되고싶은 삐약삐약 주니어치킨개발자 ABlued입니다!
+##### 안녕하세요 ABlued입니다!
 
-html, css, bootstrap, javascript, JSP, JDBC, mysql로 만든 ParisArtGallery에 대해 소개해드리겠습니다.  
+##### html, css, bootstrap, javascript, JSP, JDBC, mysql로 만든 ParisArtGallery에 대해 소개해드리겠습니다.  
 
 :tv: 시연영상
 ---
-[ParisArtGallery 시연영상 보러가기](https://www.youtube.com/watch?v=okSXZ3kLDlc&feature=youtu.be)
+[ParisArtGallery 시연영상 보러가기[클릭]](https://www.youtube.com/watch?v=okSXZ3kLDlc&feature=youtu.be)
   
 :clipboard: 프로젝트 개요
 ---
@@ -217,6 +217,3 @@ html, css, bootstrap, javascript, JSP, JDBC, mysql로 만든 ParisArtGallery에 
 
 ##### 느낀 점
 처음으로 백엔드 요소와 함께 홈페이지를 제작하게 되었다. 직접 데이터를 넣어 CRUD게시판을 만들어보니 굉장히 신기하고 재밌었다. 백엔드와 프론트 모두 다뤄보니 여태까지 한 프로젝트 중에 가장 재미있었다. 역시 코딩은 문제가 생기면 그 오류를 찾고 해결하는 과정이 재밌고 자신이 직접 만든 데이터가 이쁘게 나오니 풀스텍이 되볼까 생각도 했었다.
-
-##### 부족한 점
-시간이 부족했기 때문에 유지보수가 힘든 구조로 만들게 되었다.. 똑같은 코드를 갖고있는 중복되는 파일들이 많다. 이를 해결할려면 React, Vue를 사용해야하는데 JSP와 JS프레임워크가 연동되는 부분을 찾지 못했다. 그냥 과감히 JSP를 버리는 것이 낫다.
